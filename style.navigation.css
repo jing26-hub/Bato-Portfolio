@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color:pink;
+    margin: 20px;
+    color: black;
+}
+
+h3 {
+    font-size: 30px;
+    margin-bottom: 10px;
+    color: blueviolet;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+
+a {
+    display: block;
+    text-decoration: none;
+    color:black;
+    padding: 8px 0;
+    transition: color 0.3s ease;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+a:hover {
+    color: #3c9ae7;
+}
+
+

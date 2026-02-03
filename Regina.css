@@ -1,0 +1,41 @@
+body, h3, b {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: pink;
+    color: black;
+    padding: 50px;
+    line-height: 1.6;
+}
+
+
+h3 {
+    font-size: 40px;
+    color: black;
+
+
+    margin-bottom: 5px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+b {
+    font-size: 30px;
+    color:black#34495e;
+    display: block;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+
+
+
+
